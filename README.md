@@ -13,7 +13,5 @@ Stores and displays [zetamac](https://arithmetic.zetamac.com/) scores and statis
 
 Opens a random page from a Chrome bookmark folder.
 
-<p align="center">
   <img src="bookmarks.gif" alt="animated" />
-</p>
 
