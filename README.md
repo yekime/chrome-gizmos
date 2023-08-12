@@ -1,6 +1,6 @@
 # chrome-gizmos
 
-### List of my low-effort Chrome Extensions
+### List of my Chrome Extensions
 
 ### 1.  **Zetaboard** &ensp;&ensp; [GitHub](https://github.com/yekime/chrome-zetaboard) / [Web Store](https://chrome.google.com/webstore/detail/zetaboard/hliibeddhcdgiobohmphjofiaikledff?hl=en)
 
