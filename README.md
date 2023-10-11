@@ -15,3 +15,12 @@ Opens a random page from a Chrome bookmark folder.
 
   <img src="bookmarks.gif" alt="animated" />
 
+### 3.  **CUAir Shortlinks** &ensp;&ensp; [Web Store](https://chrome.google.com/webstore/detail/cuair-shortlinks/mfhamnkadammlbnpjcphkanhigkghlog?hl=en&authuser=0)
+
+Shortens l.cuair.org/... links to cuair/...
+
+
+
+
+https://github.com/yekime/chrome-gizmos/assets/56771911/1398c50b-f83d-4554-a32b-80916e28ce20
+
